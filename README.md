@@ -37,9 +37,8 @@
 
 
 ## About The Project
-<hr style="margin: -15px 0px;"><br />
 
-![App Screenshot](https://raw.githubusercontent.com/adearya/tint2-mono-theme/main/raw/images/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/adearya/tint2-mono-theme/HEAD/raw/images/screenshot.png)
 
 <p align="center">
     This theme is built with a manually customized Tint2 configuration, emphasizing monochrome appearance and minimalist icons. Users can easily edit it through the Tint2 configuration file to customize the layout, colors, and other effects.
@@ -53,7 +52,6 @@
 
 
 ## Getting Started
-<hr style="margin: -15px 0px;"><br />
 
 <p>
     Once applied, users can immediately enjoy a sleek monochrome panel. If needed, the theme can be further customized through the Tint2 configuration file to adjust positioning, colors, or icons based on personal preferences.
@@ -86,7 +84,6 @@ cd bashrc/
 
 
 ## Usage
-<hr style="margin: -15px 0px;"><br />
 
 <p>Once the installation is complete, refer to this section for basic usage instructions. Make sure all prerequisites are met before running the application.</p>
 
@@ -103,7 +100,6 @@ tint2 -c tint2rc &
 
 
 ## Contact
-<hr style="margin: -15px 0px;"><br />
 
 <p>If you have any questions, encounter any issues, or would like to contribute to this project, feel free to reach out through the contact information below</p>
 
