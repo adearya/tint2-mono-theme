@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adearya/tint2-mono-theme/main/raw/images/logo.jpeg" alt="Readme Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/adearya/tint2-mono-theme/HEAD/raw/images/logo.jpeg" alt="Readme Logo" width="80" height="80">
 
 <h3 align="center">Tint2 Monochrome Theme</h3>
     <p align="center">
