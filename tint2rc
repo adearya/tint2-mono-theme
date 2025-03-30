@@ -180,7 +180,7 @@ systray_name_filter =
 
 #-------------------------------------
 # Clock
-time1_format = %H : %M  |  %A %d %B
+time1_format = %H : %M  |   %A %d %B
 time1_font = sans 12
 time1_timezone = :Asia/Jakarta
 clock_font_color = #4f4f4f 100

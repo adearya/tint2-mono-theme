@@ -9,7 +9,7 @@
 
 <h3 align="center">Tint2 Monochrome Theme</h3>
     <p align="center">
-        This is the tints that I made for the first time with a white and gray style color scheme.
+        This is the Tint2 that I made for the first time with a white and gray style color scheme.
     </p>
 </div>
 
@@ -124,6 +124,11 @@ tint2 -c tint2rc &
     </a>
 </div>
 
-<p align="center">Thanks for checking out this trash project XD</p>
+<br />
+<br />
+
+<p align="center">Thanks for checking out this Trash Project XD</p>
+
+<br />
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
